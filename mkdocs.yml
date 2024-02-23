@@ -1,0 +1,8 @@
+site_name: Maxa
+
+nav:
+  - Maturita: 'maturita.md'
+  - WA 4h: 'wa_4.md'
+
+theme:
+  name: bootstrap386
